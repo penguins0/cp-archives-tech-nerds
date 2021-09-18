@@ -13,6 +13,7 @@ ClothingSprites4033.swf - Black Belt Sprites
 # Fix Rooms
 ## Dojo
 RoomsDojo.swf - In Dojo
+
 RoomsDojoext2008.swf - Outside Dojo
 
 # Credits
