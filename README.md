@@ -16,6 +16,11 @@ RoomsDojo.swf - In Dojo
 
 RoomsDojoext2008.swf - Outside Dojo
 
+# Startscreens
+LoginAdopt_black - Startscreen "Adopt-a-Black-Puffle"
+
+LoginExploreMore.swf - Startscreen "Explore More!"
+
 # Credits
 Tech Nerds, Subscribe on YT.
 
